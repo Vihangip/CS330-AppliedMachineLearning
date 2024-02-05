@@ -1,2 +1,3 @@
-Contributors: Vihangi Perera
-              Ezekiel Eteve
+Contributors: 
+- Vihangi Perera
+- Ezekiel Eteve
